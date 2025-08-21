@@ -1,0 +1,10 @@
+# Ignore Python virtual environment and libraries
+appanalysis/
+lib/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
